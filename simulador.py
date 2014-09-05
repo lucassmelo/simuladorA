@@ -14,6 +14,8 @@ import sys
 import os
 import models
 
+# Esta e uma modificacao no codigo
+
 class JanelaPrincipal(object):
     '''
         Esta classe implementa a inteface grafica do simulador
